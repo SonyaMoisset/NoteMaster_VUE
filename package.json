@@ -20,7 +20,7 @@
     "file-loader": "5.0.2",
     "vue-loader": "17.4.0",
     "vue-template-compiler": "2.6.11",
-    "webpack": "5.50.0",
+    "webpack": "5.94.0",
     "webpack-dev-server": "5.1.0"
   }
 }
